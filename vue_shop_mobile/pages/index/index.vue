@@ -1,8 +1,8 @@
 <template>
-	<view class="content">
-		<image class="logo" src="/static/logo.png"></image>
-		<view class="text-area">
-			<text class="title">{{title}}</text>
+	<view class="index">
+		<view class="f-activae-color">文字</view>
+		<view class="iconfont icon-xiaoxi">
+			chula
 		</view>
 	</view>
 </template>
